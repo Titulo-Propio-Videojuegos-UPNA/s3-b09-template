@@ -1,0 +1,12 @@
+build/
+.vs/
+.vscode/
+__pycache__/
+*.pyc
+*.exe
+*.obj
+*.o
+Intermediate/
+Saved/
+DerivedDataCache/
+Binaries/
